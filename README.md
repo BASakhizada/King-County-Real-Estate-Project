@@ -32,5 +32,5 @@ Predictive Analysis
 - Applying Linear Regression
 - Applying K-Means, cluster analysis model
 
-Tools Used:
+### Tools Used:
 • Python for data cleaning, analysis and running predictive models, and Tableau for reporting and presentation.
