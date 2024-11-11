@@ -33,4 +33,7 @@ Predictive Analysis
 - Applying K-Means, cluster analysis model
 
 ### Tools Used:
-• Python for data cleaning, analysis and running predictive models, and Tableau for reporting and presentation.
+• Python for data cleaning, analysis and running predictive models, and Tableau for reporting and presentation. 
+
+### Link to Tableau Storyboard
+https://public.tableau.com/app/profile/barat.ali.sakhizada/viz/KingCountyRealEstateStoryboard_17311028202870/Story1?publish=yes 
