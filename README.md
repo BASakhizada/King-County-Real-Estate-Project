@@ -21,11 +21,13 @@ https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data
 
 ### Approach:
 Data Exploration and Cleaning:
+
 −Handle any missing values, incorrect data types, and outliers.
 −Explore the distribution of key variables and visualize correlations.
 −Create new features (if needed) such as age of the property or price per square foot.
 
 Exploratory Data Analysis (EDA):
+
 −Analyze how each feature impacts property prices.
 −Use visualization tools like scatter plots, heatmaps, bar charts, box plots etc. to uncover patterns in the data.
 Predictive Analysis
